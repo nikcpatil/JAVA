@@ -30,8 +30,7 @@ public class Addition2 {
     	  System.out.println(first.add(2, 7));
     	  System.out.println(first.add(2, 7, 3));
     	  System.out.println(first.add(2, 7, 4 , 2, 8, 6, 4));
-      }
       first.show(1, "Addition");
       first.show(2, "Profound", "JAVA");
-
+    }
 }
